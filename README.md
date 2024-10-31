@@ -9,5 +9,5 @@ Banks face increasing challenges in accurately assessing the creditworthiness of
 - Mitigate Financial Risk: Predict the likelihood of repayment and prevent potential losses.
 - Enhance Loan Customization: Determine appropriate loan amounts and terms based on applicant profiles.
 - Promote Fair Lending: Ensure decisions are data-driven and objective, fostering a responsible lending environment.
-- 
+
 These predictive models support banks in making informed loan approval decisions, enhancing both financial performance and lending practices.
